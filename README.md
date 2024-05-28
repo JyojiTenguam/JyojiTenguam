@@ -1,4 +1,5 @@
 ## Olá, como você está? 👋
+![backiee-286745-landscape](https://github.com/JyojiTenguam/JyojiTenguam/assets/113162370/d9923641-bd89-44d9-a366-01816e890dc7)
 
 Eu sou Jonathan Jyoji Tenguam, mas pode me chamar de Jyoji. Tenho 29 anos e atualmente estou cursando Desenvolvimento Web pela Trybe. Sou graduado em Sistemas para Internet pela FATEC Jales e tenho uma pós-graduação em Consultoria Web pela FATEC Rio Preto. Meu conhecimento abrange HTML, CSS, JavaScript, React e testes unitários com Jest.
 
