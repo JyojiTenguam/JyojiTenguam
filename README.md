@@ -10,6 +10,8 @@ Fique à vontade e aproveite! 🚀
 ![](https://komarev.com/ghpvc/?username=JyojiTenguam&color=006bed)
 
 ## Sobre mim
+![backiee-102323-landscape](https://github.com/JyojiTenguam/JyojiTenguam/assets/113162370/887b06a0-8f56-4203-b88d-a58bcff0ac4f)
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento Web na Trybe.
