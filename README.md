@@ -65,5 +65,5 @@ Fique à vontade e aproveite! 🚀
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-jyoji/)](https://www.linkedin.com/in/jonathan-jyoji/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonathanjyoji/)](https://www.instagram.com/jonathanjyoji/)
-![Outlook](https://img.shields.io/badge/Outlook-jonathanjyoji%40hotmail.com-blue?logo=microsoft-outlook&logoColor=white)
+[![Outlook](https://img.shields.io/badge/Outlook-jonathanjyoji%40hotmail.com-blue?logo=microsoft-outlook&logoColor=white)](mailto:jonathanjyoji@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/JyojiTenguam?label=follow&style=social)](https://github.com/JyojiTenguam)
