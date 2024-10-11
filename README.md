@@ -15,7 +15,7 @@ Fique à vontade e aproveite! 🚀
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento Web na Trybe.
-- 🌱 Aprendendo mais sobre Docker, SQL e Node.js.
+- 🌱 Aprendendo mais sobre Python.
 - 💬 Pergunte-me sobre qualquer coisa, e eu farei o meu melhor para responder com precisão ou oferecer a melhor resposta que puder pensar.
 - ⚡ Curiosidade: Já toquei Taiko (instrumento japonês) na comemoração dos 100 anos da imigração japonesa em São Paulo 🇧🇷, na presença do imperador do Japão da época 🇯🇵. 🥁
 
