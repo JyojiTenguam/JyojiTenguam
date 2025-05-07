@@ -1,7 +1,7 @@
 ## Olá, como você está? 👋
 ![backiee-286745-landscape](https://github.com/JyojiTenguam/JyojiTenguam/assets/113162370/d9923641-bd89-44d9-a366-01816e890dc7)
 
-Eu sou Jonathan Jyoji Tenguam, mas pode me chamar de Jyoji. Tenho 30 anos, sou graduado em Sistemas para Internet pela FATEC Jales e tenho uma pós-graduação em Consultoria Web pela FATEC Rio Preto. Também sou formado pelo curso de Desenvolvimento Web pela Trybe. Meu conhecimento abrange HTML, CSS, JavaScript, React e testes unitários com Jest.
+Eu sou Jonathan Jyoji Tenguam, mas pode me chamar de Jyoji. Sou graduado em Sistemas para Internet pela FATEC Jales e tenho uma pós-graduação em Consultoria Web pela FATEC Rio Preto. Também sou formado pelo curso de Desenvolvimento Web pela Trybe. Meu conhecimento abrange HTML, CSS, JavaScript, React e testes unitários com Jest.
 
 Obrigado por visitar meu repositório. Aqui você encontrará meus projetos, contribuições e experimentos. Sinta-se à vontade para explorar, usar, e colaborar. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato!
 
@@ -56,8 +56,7 @@ Fique à vontade e aproveite! 🚀
 
 <br/>
 
-<a href="https://github.com/JyojiTenguam" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JyojiTenguam&theme=dark&show_icons=true" />
+<a href="https://github.com/JyojiTenguam" title="Perfil do Jyoji">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyojiTenguam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 </a>
 
