@@ -21,38 +21,66 @@ Fique à vontade e aproveite! 🚀
 
 ## Minhas Skills
 
-**Aplicações e dados**
+# 🚀 Habilidades Técnicas
 
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![DOM (Document Object Model)](https://img.shields.io/badge/DOM-333333?style=flat&logo=document)
-![Teste Unitário em Jest](https://img.shields.io/badge/Teste%20Unit%C3%A1rio%20em%20Jest-333333?style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=React&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React%20Router-333333?style=flat&logo=React%20Router&logoColor=CA4245)
-![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=Redux&logoColor=764ABC)
-![Context API](https://img.shields.io/badge/Context%20API-333333?style=flat)
-![Hooks](https://img.shields.io/badge/Hooks-333333?style=flat)
+Este repositório reúne as habilidades que adquiri durante minha formação na Trybe e minha jornada como desenvolvedor.
 
+## 🧠 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Utilidades**
+## 🌐 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-232F3E?style=for-the-badge)
 
-![Unix](https://img.shields.io/badge/-Unix-333333?style=flat)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat)
-![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack&logoColor=4A154B)
+## 📦 Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-03afef?style=for-the-badge&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**DevOps**
+## 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=google&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-0080FF?style=for-the-badge)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-FF7043?style=for-the-badge)
+![Fragments](https://img.shields.io/badge/Fragments-03DAC5?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+## 🧪 Testes
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Sinon](https://img.shields.io/badge/Sinon-4E4E4E?style=for-the-badge)
 
+## 🧰 Ferramentas e Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+## 🧩 Paradigmas e Conceitos
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge)
+![Arquitetura em Camadas](https://img.shields.io/badge/Arquitetura%20em%20Camadas-007ACC?style=for-the-badge)
+![Algoritmos](https://img.shields.io/badge/Algoritmos-FF6F61?style=for-the-badge)
+![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-4B8BBE?style=for-the-badge)
+![Recursividade](https://img.shields.io/badge/Recursividade-000000?style=for-the-badge)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
 
