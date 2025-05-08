@@ -85,12 +85,12 @@ Este repositório reúne as habilidades que adquiri durante minha formação na 
 <br/>
 
 <a href="https://github.com/JyojiTenguam" title="Perfil do Jyoji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyojiTenguam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyojiTenguam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-jyoji/)](https://www.linkedin.com/in/jonathan-jyoji/)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-jyoji/)](https://www.linkedin.com/in/jyoji/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonathanjyoji/)](https://www.instagram.com/jonathanjyoji/)
 [![Outlook](https://img.shields.io/badge/Outlook-jonathanjyoji%40hotmail.com-blue?logo=microsoft-outlook&logoColor=white)](mailto:jonathanjyoji@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/JyojiTenguam?label=follow&style=social)](https://github.com/JyojiTenguam)
